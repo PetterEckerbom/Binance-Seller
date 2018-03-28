@@ -3,7 +3,7 @@ Binance Seller
 
 Description
 ---
-This program is a NodeJS base application that sells all your crypto-currencies on your binance account.
+This program is a NodeJS based application that sells all your crypto-currencies on your binance account.
 
 The program is particularly useful for people who have a lot of refferals as they will accumulate a lot
 of coins that they have no intrest of. It can be a tedious task to go through and find which ones can be sold manually
