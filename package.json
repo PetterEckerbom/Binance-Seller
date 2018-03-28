@@ -1,0 +1,14 @@
+{
+  "name": "binance_seller",
+  "version": "1.0.0",
+  "description": "Sells all the shit on binance",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Petter Eckerbom",
+  "license": "ISC",
+  "dependencies": {
+    "node-binance-api": "^0.4.25"
+  }
+}
