@@ -1,7 +1,8 @@
 Binance Seller
 ===
 
-##Description
+Description
+---
 
 This program is a NodeJS base application that sells all your crypto-currencies on your binance account.
 
