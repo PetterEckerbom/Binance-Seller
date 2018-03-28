@@ -10,10 +10,12 @@ of coins that they have no intrest of. It can be a tedious task to go through an
 
 It uses the NodeJS library ['node-binance-api'](https://github.com/jaggedsoft/node-binance-api) to place the orders.
 
-**How to configure**
+How to configure
+---
 
 Before starting the program you need to edit a few settings, the setting are changed in .txt files in the "Settings" folder
 
+---
 
 **exclude.txt**
 
@@ -30,6 +32,8 @@ In this section you fill in your private and public API keys. These can be creat
 (make sure to be logged in when clicking).
 
 On the first line you put the secret and on the second one you put the public API key
+
+---
 
 **trade_to.txt**
 
